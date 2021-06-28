@@ -1,10 +1,11 @@
 package baitap.oopAtm;
 
+import java.beans.Customizer;
 import java.util.Scanner;
 
 public class ATM {
     public static void main(String[] args) {
-        
+
         int choice;
         Scanner sc = new Scanner(System.in);
 
