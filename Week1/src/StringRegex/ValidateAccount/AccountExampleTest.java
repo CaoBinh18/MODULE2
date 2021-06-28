@@ -1,7 +1,5 @@
 package StringRegex.ValidateAccount;
 
-import StringRegex.ValidateEmail.EmailExample;
-
 public class AccountExampleTest {
     private static AccountExample accountExample;
     public static final String[] validAccount = new String[] {"123abc_", "_abc123", "______", "123456","abcdefgh"};
