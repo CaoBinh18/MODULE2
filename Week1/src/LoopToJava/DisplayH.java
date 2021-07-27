@@ -13,7 +13,7 @@ public class DisplayH {
             System.out.println("2. Print the square triangle");
             System.out.println("3.Print isosceles triangle");
             System.out.println("4. Exit");
-            System.out.println("Enter your choice: ");
+            System.out.print("Enter your choice: ");
             choice = sc.nextInt();
 
             switch (choice) {

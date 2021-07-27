@@ -13,7 +13,7 @@ public class DisplayPrime {
             if (count == 2) {
                 primeNumbers = primeNumbers + i + " ";
             }
-            System.out.print(primeNumbers);
         }
+        System.out.print(primeNumbers);
     }
 }
